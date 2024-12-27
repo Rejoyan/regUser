@@ -4,8 +4,8 @@
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-
+   git clone [<repository-url>
+](https://github.com/Rejoyan/regUser.git)
 
 2. Navigate into the project directory:
 
